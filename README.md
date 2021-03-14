@@ -3,7 +3,6 @@
 ![stats](https://raw.githubusercontent.com/davchezt/git-stats/master/generated/overview.svg)
 ![stats](https://raw.githubusercontent.com/davchezt/git-stats/master/generated/languages.svg)
 
-### Hi there 👋
 </div>
 
 <!--
