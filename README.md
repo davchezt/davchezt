@@ -1,9 +1,9 @@
-<div style="text-align:center">
-
-![stats](https://raw.githubusercontent.com/davchezt/git-stats/master/generated/overview.svg)
-![stats](https://raw.githubusercontent.com/davchezt/git-stats/master/generated/languages.svg)
-
-</div>
+<p align="center">
+  <a href="https://github.com/davchezt">
+    <img src="https://raw.githubusercontent.com/davchezt/git-stats/master/generated/overview.svg" alt="stats" />
+    <img src="https://raw.githubusercontent.com/davchezt/git-stats/master/generated/languages.svg" alt="stats" />
+  </a>
+</p>
 
 <!--
 **davchezt/davchezt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
