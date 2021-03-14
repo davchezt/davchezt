@@ -1,4 +1,5 @@
-![stats](https://github-readme-stats.vercel.app/api?username=davchezt&show_icons=true&include_all_commits=true&theme=material-palenight)
+![stats](https://raw.githubusercontent.com/davchezt/git-stats/master/generated/overview.svg)
+![stats](https://raw.githubusercontent.com/davchezt/git-stats/master/generated/languages.svg)
 
 ### Hi there 👋
 
