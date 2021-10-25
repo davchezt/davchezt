@@ -1,5 +1,9 @@
-![](https://raw.githubusercontent.com/davchezt/git-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/davchezt/git-stats/master/generated/languages.svg)
+<p align="center">
+  <a href="https://github.com/davchezt">
+    <img src="https://raw.githubusercontent.com/davchezt/git-stats/master/generated/overview.svg" />
+    <img src="https://raw.githubusercontent.com/davchezt/git-stats/master/generated/languages.svg" />
+  </a>
+</p>
 
 <!--
 Here are some ideas to get you started:
