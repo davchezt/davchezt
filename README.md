@@ -3,6 +3,7 @@
 ![](https://raw.githubusercontent.com/davchezt/git-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/davchezt/git-stats/master/generated/languages.svg)
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
