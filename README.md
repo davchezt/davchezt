@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](https://raw.githubusercontent.com/davchezt/git-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/davchezt/git-stats/master/generated/languages.svg)
 
